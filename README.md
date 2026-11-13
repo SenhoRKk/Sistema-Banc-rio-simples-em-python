@@ -1,4 +1,4 @@
-![Capa do projeto](capa.png)
+![Capa do projeto](file_00000000b1b4820ea88721aa803b078b.png)
 
 
 🏦 Sistema Bancário Simples em Python
