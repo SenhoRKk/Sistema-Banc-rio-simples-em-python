@@ -1,3 +1,6 @@
+![Capa do projeto](capa.png)
+
+
 🏦 Sistema Bancário Simples em Python
 
 📌 Sobre o projeto
